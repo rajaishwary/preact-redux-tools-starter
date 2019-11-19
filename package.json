@@ -20,6 +20,9 @@
     "build/*"
   ],
   "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
     "enzyme": "^3.10.0",
     "enzyme-adapter-preact-pure": "^2.0.0",
     "eslint": "^6.0.1",
@@ -33,9 +36,11 @@
     "serve": "^11.1.0"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "preact": "^10.0.1",
     "preact-render-to-string": "^5.1.0",
-    "preact-router": "^3.0.0"
+    "preact-router": "^3.0.0",
+    "styled-components": "^4.4.1"
   },
   "jest": {
     "preset": "jest-preset-preact",

@@ -1,11 +1,11 @@
 import { h } from 'preact';
-import style from './style';
+import { Container } from './styles';
 
 const Home = () => (
-	<div class={style.home}>
+	<Container>
 		<h1>Home</h1>
 		<p>This is the Home component.</p>
-	</div>
+	</Container>
 );
 
 export default Home;
