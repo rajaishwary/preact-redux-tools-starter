@@ -1,4 +1,13 @@
-# project-ecomm
+# preact-redux-tools-starter
+
+- Preact
+- Redux-tools
+- Styled Components
+
+Todos:
+- Sagas
+- Injected reducers and sagas
+- Apollo Setup (modular)
 
 ## CLI Commands
 

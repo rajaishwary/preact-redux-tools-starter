@@ -4,7 +4,7 @@ import { MainHeader, Nav, H1 } from './styles';
 
 const Header = () => (
 	<MainHeader>
-		<H1>{'Project_EComm'}</H1>
+		<H1>{'preact-with-redux-tools'}</H1>
 		<Nav>
 			<Link href="/">Home</Link>
 			<Link href="/profile">Me</Link>

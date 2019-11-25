@@ -1,6 +1,6 @@
 {
-  "name": "project-ecomm",
-  "short_name": "project-ecomm",
+  "name": "preact-with-redux-tools",
+  "short_name": "preact-with-redux-tools",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
